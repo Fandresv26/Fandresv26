@@ -3,12 +3,16 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<meta name="viewport" content="width=device-widht, initial-scale=1.0">
+		<!--Comment by: Sergio Pardo. Como dice en el video John, sería bueno tener el tag de descripción-->
+		<meta name="description" content="Página personal de Andrés Vera">
 		<title>F. Andres Vera</title>
 		<link rel="stylesheet" type="text/css" href="proyecto/css/main.css">
 		<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
 	</head>
 	<body>
-		
+		<!--Comment by: Sergio Pardo. Revisar la funcionalidad de la página en diferentes navegadores, el uso de parallax
+			al parecer no esta soportado por algunos de ellos, por lo cual sería bueno mirar alguna opción de 
+			retrocompatibilidad -->
 		<div class="wrapper">
 			<!--Section 0 - Index -->
 			<!--efecto parallax para las imagenes de fondo-->
@@ -54,13 +58,13 @@
 		<div class="contentslide">
 			 <a href="#abinbev"><img class="Slides" src="proyecto/img/abinbev.jpg" alt="Ab inBev"></a>
 			 <a href="#Primid"><img class="Slides" src="proyecto/img/primid.jpg" alt="Primid"></a>
-		     <a href="#Oilcol"><img class="Slides" src="proyecto/img/oilcol.jpg" alt="OilCol"></a>
+			 <!--Comment by: Sergio Pardo. Pequeño cambio en identación-->
+		    	 <a href="#Oilcol"><img class="Slides" src="proyecto/img/oilcol.jpg" alt="OilCol"></a>
 			 <a href="#Alpesoft"><img class="Slides" src="proyecto/img/alpesoft.jpg" alt="Alpesoft"></a>
 
 			 <button class="bttn bttnblack bttnleft" onclick="plusDivs(-1)">&#10094;</button>
 			 <button class="bttn bttnblack bttnright" onclick="plusDivs(1)">&#10095;</button>
 		</div>
-
 
 <!-- seccion de abinbev -->
 		<a name="abinbev"></a><div class="abinbev">
