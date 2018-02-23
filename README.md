@@ -1,6 +1,6 @@
 ## Bienvenido a mi portafolio
 
-Mi nombre es Freddy Andrés Vera y la pagina que veran a continuacion es mi portafolio de proyectos y trabajos realizados durante la etapa universitaria.
+Mi nombre es Freddy Andrés Vera y la pagina que veran a continuacion es mi portafolio de proyectos y trabajos realizados durante la etapa universitaria. El link para visualizarla es el siguiente: https://fandresv26.github.io/Fandresv26/
 
 Esta pagina web fue creada con el fin de dar a conocer por un medio interactivo y mediante ilustraciones dinamicas en el mismo, aquellos trabajos realizados individual y grupalmente que son fundamentales para la carrera de Ingenieria de Sistemas y que brindan cierto nivel de aporte para el avance de la ciencia y tecnologia.
 
