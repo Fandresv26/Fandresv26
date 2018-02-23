@@ -20,3 +20,40 @@ function mostrarD(n) {
   }
   x[slideFotos-1].style.display = "block";  
 }
+
+$(document).ready(function(){
+
+    $("#btn-toggle1").click(function(){
+        $(".Abinbev").css("display", "block");
+    });
+
+    $("#salir1").click(function(){
+        $(".Abinbev").css("display", "none");
+    });
+
+     $("#btn-toggle2").click(function(){
+        $(".Primid").css("display", "block");
+    });
+
+    $("#salir2").click(function(){
+        $(".Primid").css("display", "none");
+    });
+
+     $("#btn-toggle3").click(function(){
+        $(".Oilcol").css("display", "block");
+    });
+
+    $("#salir3").click(function(){
+        $(".Oilcol").css("display", "none");
+    });
+
+    $("#btn-toggle4").click(function(){
+        $(".Alpesoft").css("display", "block");
+    });
+
+    $("#salir4").click(function(){
+        $(".Alpesoft").css("display", "none");
+    });
+
+
+});

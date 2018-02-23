@@ -229,7 +229,7 @@ div h2{
   color: white;
 }
 
-.abinbev{
+.Abinbev{
   width: 100%
   height: 100%;
   margin: auto;
@@ -237,18 +237,19 @@ div h2{
   font-size: 20px;
   line-height: 30px;
   text-align: justify;
+  display: block;
 
 }
 
-.abinbev .transparent{
+.Abinbev .transparent{
   color: transparent;
   width: 900px;
   height: 900px;
 }
 
-.abinbev p{
+.Abinbev p{
   margin: auto;
-  margin-top: 60px;
+  margin-top: 20px;
   margin-left: 15%;
   margin-right: 15%;
   font-size: 20px;
@@ -266,6 +267,7 @@ div h2{
   font-size: 20px;
   line-height: 30px;
   text-align: justify;
+  display: block;
 
 }
 
@@ -277,7 +279,7 @@ div h2{
 
 .Primid p{
   margin: auto;
-  margin-top: 60px;
+  margin-top: 20px;
   margin-left: 15%;
   margin-right: 15%;
   font-size: 20px;
@@ -295,6 +297,8 @@ div h2{
   font-size: 20px;
   line-height: 30px;
   text-align: justify;
+  display: block;
+
 
 }
 
@@ -306,7 +310,7 @@ div h2{
 
 .Oilcol p{
   margin: auto;
-  margin-top: 60px;
+  margin-top: 20px;
   margin-left: 15%;
   margin-right: 15%;
   font-size: 20px;
@@ -324,6 +328,7 @@ div h2{
   font-size: 20px;
   line-height: 30px;
   text-align: justify;
+  display: block;
 
 }
 
@@ -335,7 +340,7 @@ div h2{
 
 .Alpesoft p{
   margin: auto;
-  margin-top: 60px;
+  margin-top: 20px;
   margin-left: 15%;
   margin-right: 15%;
   font-size: 20px;
@@ -344,4 +349,40 @@ div h2{
   color: black;
 
 }
+
+.salir1{
+  margin: auto;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+  display: block;
+
+}
+
+.salir2{
+  margin: auto;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+  display: block;
+
+}
+.salir3{
+  margin: auto;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+  display: block;
+
+}
+.salir4{
+  margin: auto;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+  display: block;
+
+}
+
+
 
